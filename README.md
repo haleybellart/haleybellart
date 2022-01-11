@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @haleybellart, a programmer and designer looking to make the online world a better place. 
+- 👀 I’m interested in python, game development, automation, and data analysis.
+- 🌱 I’m currently learning advanced python and deeper data analysis.
+- 📫 Reach out to me at haleybellsart@gmail.com, or on linkedin at https://www.linkedin.com/in/haleythecampbell/
